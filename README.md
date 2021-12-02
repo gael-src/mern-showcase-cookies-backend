@@ -11,7 +11,7 @@ This project shows you the basics of using cookies and sessions in Node/Express 
 - create a `.env` file in the root directory, e.g.
 
 ```
-SESSION_SECRET = 1234sdfsidf23434
+SESSION_SECRET = secret123example
 ```
 
 - `npm start`
