@@ -16,5 +16,3 @@ SESSION_SECRET = 1234sdfsidf23434
 
 - `npm start`
 - test in a browser or in Postdam by going to the endpoints
-
-# mern-showcase-cookies-backend
