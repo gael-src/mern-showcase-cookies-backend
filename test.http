@@ -1,0 +1,18 @@
+@url= http://localhost:3003
+
+### user login
+POST {{url}}/login
+content-type: application/json
+
+{
+    "username": "kc",
+    "password": "ppp"
+}
+
+### show user data
+GET {{url}}/currentuser
+content-type: application/json
+
+### user logout
+GET {{url}}/logout
+content-type: application/json
